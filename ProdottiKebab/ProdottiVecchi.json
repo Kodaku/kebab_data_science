@@ -1,0 +1,1578 @@
+[
+    {
+        "name": "marinara",
+        "category": "pizza",
+        "price": 3.8,
+        "ingredients": ["pomodoro", "origano", "aglio", "olio"]
+    },
+    {
+        "name": "marinara",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "origano", "aglio", "olio"],
+        "price": 8.6
+    },
+    {
+        "name": "margherita",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella"],
+        "price": 4.0
+    },
+    {
+        "name": "margherita",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella"],
+        "price": 9.0
+    },
+    {
+        "name": "romana",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "acciughe", "origano"],
+        "price": 5.0
+    },
+    {
+        "name": "romana",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "acciughe", "origano"],
+        "price": 11.0
+    },
+    {
+        "name": "prosciutto",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "prosciutto cotto"],
+        "price": 5.5
+    },
+    {
+        "name": "prosciutto",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "prosciutto cotto"],
+        "price": 11.0
+    },
+    {
+        "name": "pugliese",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "cipolle"],
+        "price": 5.0
+    },
+    {
+        "name": "pugliese",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "cipolle"],
+        "price": 11.0
+    },
+    {
+        "name": "tonno e cipolle",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "tonno", "cipolle"],
+        "price": 6.0
+    },
+    {
+        "name": "tonno e cipolle",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "tonno", "cipolle"],
+        "price": 13.0
+    },
+    {
+        "name": "prosciutto e funghi",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "prosciutto cotto", "funghi"],
+        "price": 6.0
+    },
+    {
+        "name": "prosciutto e funghi",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "prosciutto cotto", "funghi"],
+        "price": 13.0
+    },
+    {
+        "name": "siciliana",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "acciughe",
+            "capperi",
+            "origano"
+        ],
+        "price": 5.5
+    },
+    {
+        "name": "siciliana",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "acciughe",
+            "capperi",
+            "origano"
+        ],
+        "price": 12.0
+    },
+    {
+        "name": "wurstel",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "wurstel"],
+        "price": 6.0
+    },
+    {
+        "name": "wurstel",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "wurstel"],
+        "price": 12.0
+    },
+    {
+        "name": "affumicata",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "scamorza", "speck"],
+        "price": 7.0
+    },
+    {
+        "name": "affumicata",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "scamorza", "speck"],
+        "price": 14.0
+    },
+    {
+        "name": "children",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "wurstel", "patatine"],
+        "price": 6.5
+    },
+    {
+        "name": "children",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "wurstel", "patatine"],
+        "price": 13.0
+    },
+    {
+        "name": "contadina",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "cipolle", "rucola", "grana"],
+        "price": 5.5
+    },
+    {
+        "name": "contadina",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "cipolle", "rucola", "grana"],
+        "price": 12.0
+    },
+    {
+        "name": "carrettiera",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "funghi",
+            "salame piccante",
+            "wurstel"
+        ],
+        "price": 7.0
+    },
+    {
+        "name": "carrettiera",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "funghi",
+            "salame piccante",
+            "wurstel"
+        ],
+        "price": 14.0
+    },
+    {
+        "name": "gozzo",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "gorgonzola", "salsiccia"],
+        "price": 6.5
+    },
+    {
+        "name": "gozzo",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "gorgonzola", "salsiccia"],
+        "price": 13.0
+    },
+    {
+        "name": "primavera",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "peperoni", "grana"],
+        "price": 5.5
+    },
+    {
+        "name": "primavera",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "peperoni", "grana"],
+        "price": 12.0
+    },
+    {
+        "name": "capricciosa",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto cotto",
+            "carciofi",
+            "funghi",
+            "olive",
+            "origano"
+        ],
+        "price": 6.5
+    },
+    {
+        "name": "capricciosa",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto cotto",
+            "carciofi",
+            "funghi",
+            "olive",
+            "origano"
+        ],
+        "price": 13.0
+    },
+    {
+        "name": "4 formaggi",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "scamorza",
+            "gorgonzola",
+            "grana"
+        ],
+        "price": 6.0
+    },
+    {
+        "name": "4 formaggi",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "scamorza",
+            "gorgonzola",
+            "grana"
+        ],
+        "price": 13.0
+    },
+    {
+        "name": "diavola",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "salame piccante"],
+        "price": 6.0
+    },
+    {
+        "name": "diavola",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "salame piccante"],
+        "price": 13.0
+    },
+    {
+        "name": "4 stagioni",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto cotto",
+            "funghi",
+            "carciofi"
+        ],
+        "price": 6.5
+    },
+    {
+        "name": "4 stagioni",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto cotto",
+            "funghi",
+            "carciofi"
+        ],
+        "price": 13.0
+    },
+    {
+        "name": "ortolana",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "carciofi",
+            "spinaci",
+            "melanzane",
+            "pomodorini"
+        ],
+        "price": 6.5
+    },
+    {
+        "name": "ortolana",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "carciofi",
+            "spinaci",
+            "melanzane",
+            "pomodorini"
+        ],
+        "price": 14.0
+    },
+    {
+        "name": "saporita",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "salsiccia",
+            "peperoni",
+            "grana"
+        ],
+        "price": 6.5
+    },
+    {
+        "name": "saporita",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "salsiccia",
+            "peperoni",
+            "grana"
+        ],
+        "price": 13.0
+    },
+    {
+        "name": "veneta",
+        "category": "pizza",
+        "ingredients": ["mozzarella", "radicchio", "scamorza", "grana"],
+        "price": 6.0
+    },
+    {
+        "name": "veneta",
+        "category": "pizza famiglia",
+        "ingredients": ["mozzarella", "radicchio", "scamorza", "grana"],
+        "price": 13.0
+    },
+    {
+        "name": "matrix",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto cotto",
+            "cipolle",
+            "grana"
+        ],
+        "price": 6.5
+    },
+    {
+        "name": "matrix",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto cotto",
+            "cipolle",
+            "grana"
+        ],
+        "price": 14.0
+    },
+    {
+        "name": "mediterranea",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "pomodorini",
+            "tonno",
+            "olive",
+            "capperi"
+        ],
+        "price": 6.5
+    },
+    {
+        "name": "mediterranea",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "pomodorini",
+            "tonno",
+            "olive",
+            "capperi"
+        ],
+        "price": 14.0
+    },
+    {
+        "name": "inverno",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "salame piccante",
+            "carciofi",
+            "salsiccia"
+        ],
+        "price": 6.5
+    },
+    {
+        "name": "inverno",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "salame piccante",
+            "carciofi",
+            "salsiccia"
+        ],
+        "price": 14.0
+    },
+    {
+        "name": "vegetariana",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "spinaci",
+            "melanzane",
+            "zucchine",
+            "radicchio",
+            "grana"
+        ],
+        "price": 6.5
+    },
+    {
+        "name": "vegetariana",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "spinaci",
+            "melanzane",
+            "zucchine",
+            "radicchio",
+            "grana"
+        ],
+        "price": 14.0
+    },
+    {
+        "name": "gorgo salame piccante",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "gorgonzola",
+            "salame piccante"
+        ],
+        "price": 6.5
+    },
+    {
+        "name": "gorgo salame piccante",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "gorgonzola",
+            "salame piccante"
+        ],
+        "price": 14.0
+    },
+    {
+        "name": "suprema",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "brie",
+            "salame piccante",
+            "olive"
+        ],
+        "price": 6.5
+    },
+    {
+        "name": "suprema",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "brie",
+            "salame piccante",
+            "olive"
+        ],
+        "price": 14.0
+    },
+    {
+        "name": "speck e brie",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "speck", "brie"],
+        "price": 7.0
+    },
+    {
+        "name": "speck e brie",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "speck", "brie"],
+        "price": 15.0
+    },
+    {
+        "name": "bufala rucola",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "bufala", "rucola"],
+        "price": 6.5
+    },
+    {
+        "name": "bufala rucola",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "bufala", "rucola"],
+        "price": 14.0
+    },
+    {
+        "name": "porcini",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "porcini"],
+        "price": 6.5
+    },
+    {
+        "name": "porcini",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "porcini"],
+        "price": 14.0
+    },
+    {
+        "name": "sottobosco",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "porcini",
+            "prosciutto crudo"
+        ],
+        "price": 7.0
+    },
+    {
+        "name": "sottobosco",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "porcini",
+            "prosciutto crudo"
+        ],
+        "price": 15.0
+    },
+    {
+        "name": "trevisana",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "radicchio",
+            "grana",
+            "salsiccia"
+        ],
+        "price": 7.0
+    },
+    {
+        "name": "trevisana",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "radicchio",
+            "grana",
+            "salsiccia"
+        ],
+        "price": 15.0
+    },
+    {
+        "name": "gustosa",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "bufala", "porcini", "salame piccante"],
+        "price": 7.0
+    },
+    {
+        "name": "gustosa",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "bufala", "porcini", "salame piccante"],
+        "price": 15.0
+    },
+    {
+        "name": "estate",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "bufala", "pomodorini", "rucola"],
+        "price": 7.0
+    },
+    {
+        "name": "estate",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "bufala", "pomodorini", "rucola"],
+        "price": 15.0
+    },
+    {
+        "name": "autunno",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "bufala", "melanzane", "porcini", "grana"],
+        "price": 7.0
+    },
+    {
+        "name": "autunno",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "bufala", "melanzane", "porcini", "grana"],
+        "price": 15.0
+    },
+    {
+        "name": "mantovana",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "porcini", "rucola"],
+        "price": 7.0
+    },
+    {
+        "name": "mantovana",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "porcini", "rucola"],
+        "price": 15.0
+    },
+    {
+        "name": "crudo e panna",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "prosciutto crudo", "panna"],
+        "price": 6.5
+    },
+    {
+        "name": "crudo e panna",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "prosciutto crudo", "panna"],
+        "price": 14.0
+    },
+    {
+        "name": "pizza kebab",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "carne",
+            "cipolle",
+            "insalata",
+            "yogurt",
+            "piccante"
+        ],
+        "price": 6.5
+    },
+    {
+        "name": "pizza kebab",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "carne",
+            "cipolle",
+            "insalata",
+            "yogurt",
+            "piccante"
+        ],
+        "price": 14.0
+    },
+    {
+        "name": "jolie",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "zucchine",
+            "brie",
+            "prosciutto cotto"
+        ],
+        "price": 7.5
+    },
+    {
+        "name": "jolie",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "zucchine",
+            "brie",
+            "prosciutto cotto"
+        ],
+        "price": 16.0
+    },
+    {
+        "name": "speciale",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto cotto",
+            "funghi",
+            "carciofi",
+            "salame piccante",
+            "wurstel",
+            "salsiccia"
+        ],
+        "price": 7.5
+    },
+    {
+        "name": "speciale",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto cotto",
+            "funghi",
+            "carciofi",
+            "salame piccante",
+            "wurstel",
+            "salsiccia"
+        ],
+        "price": 16.0
+    },
+    {
+        "name": "frutti di mare",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "frutti di mare"],
+        "price": 7.5
+    },
+    {
+        "name": "frutti di mare",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "frutti di mare"],
+        "price": 16.0
+    },
+    {
+        "name": "pizza al volo",
+        "category": "pizza",
+        "ingredients": ["mozzarella", "porcini", "melanzane", "brie", "speck"],
+        "price": 7.5
+    },
+    {
+        "name": "pizza al volo",
+        "category": "pizza famiglia",
+        "ingredients": ["mozzarella", "porcini", "melanzane", "brie", "speck"],
+        "price": 16.0
+    },
+    {
+        "name": "calzone",
+        "category": "pizza",
+        "ingredients": [
+            "mozzarella",
+            "pomodoro",
+            "prosciutto cotto",
+            "funghi",
+            "carciofi"
+        ],
+        "price": 5.5
+    },
+    {
+        "name": "milanese",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "gorgonzola",
+            "salame milanese"
+        ],
+        "price": 7.0
+    },
+    {
+        "name": "milanese",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "gorgonzola",
+            "salame milanese"
+        ],
+        "price": 14.0
+    },
+    {
+        "name": "carbonara",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "uovo", "grana", "pancetta"],
+        "price": 7.0
+    },
+    {
+        "name": "carbonara",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "uovo", "grana", "pancetta"],
+        "price": 15.0
+    },
+    {
+        "name": "salame milanese",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "salame milanese"],
+        "price": 6.0
+    },
+    {
+        "name": "salame milanese",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "salame milanese"],
+        "price": 13.0
+    },
+    {
+        "name": "sfiziosa",
+        "category": "pizza",
+        "ingredients": ["mozzarella", "salsiccia", "friarielli"],
+        "price": 7.5
+    },
+    {
+        "name": "sfiziosa",
+        "category": "pizza famiglia",
+        "ingredients": ["mozzarella", "salsiccia", "friarielli"],
+        "price": 16.0
+    },
+    {
+        "name": "delicata",
+        "category": "pizza",
+        "ingredients": ["mozzarella", "gamberetti", "philadelfia", "rucola"],
+        "price": 7.5
+    },
+    {
+        "name": "delicata",
+        "category": "pizza famiglia",
+        "ingredients": ["mozzarella", "gamberetti", "philadelfia", "rucola"],
+        "price": 16.0
+    },
+    {
+        "name": "bandidos",
+        "category": "kebab",
+        "ingredients": ["pollo"],
+        "price": 6.0
+    },
+    {
+        "name": "anelli di cipolla",
+        "category": "kebab",
+        "ingredients": ["anelli di cipolla"],
+        "price": 3.0
+    },
+    {
+        "name": "patatine spirale",
+        "category": "patatine",
+        "ingredients": ["patatine spirale"],
+        "price": 3.0
+    },
+    {
+        "name": "wedges",
+        "category": "patatine",
+        "ingredients": ["wedges"],
+        "price": 3.0
+    },
+    {
+        "name": "piatto piccolo",
+        "category": "kebab",
+        "ingredients": [
+            "insalata",
+            "mais",
+            "pomodoro",
+            "verza rossa",
+            "cappuccio",
+            "cipolle",
+            "yogurt",
+            "piccante"
+        ],
+        "price": 5.0
+    },
+    {
+        "name": "piatto grande",
+        "category": "kebab",
+        "ingredients": [
+            "carne",
+            "insalata",
+            "mais",
+            "pomodoro",
+            "verza rossa",
+            "cappuccio",
+            "cipolle",
+            "yogurt",
+            "piccante"
+        ],
+        "price": 7.0
+    },
+    {
+        "name": "piatto falafel",
+        "category": "kebab",
+        "ingredients": [
+            "falafel",
+            "insalata",
+            "mais",
+            "pomodoro",
+            "verza rossa",
+            "cappuccio",
+            "cipolle",
+            "yogurt",
+            "piccante"
+        ],
+        "price": 5.5
+    },
+    {
+        "name": "cotoletta di pollo",
+        "category": "kebab",
+        "ingredients": ["cotoletta", "patatine", "ketchup", "maionese"],
+        "price": 6.0
+    },
+    {
+        "name": "piatto bresaola",
+        "category": "affettati",
+        "ingredients": ["bresaola", "grana"],
+        "price": 7.0
+    },
+    {
+        "name": "piatto crudo e bufala",
+        "category": "affettati",
+        "ingredients": ["prosciutto crudo", "bufala"],
+        "price": 7.0
+    },
+    {
+        "name": "piatto salumi misti",
+        "category": "affettati",
+        "ingredients": ["prosciutto crudo", "speck", "bresaola"],
+        "price": 7.0
+    },
+    {
+        "name": "fritto misto",
+        "category": "kebab",
+        "ingredients": ["frutti di mare"],
+        "price": 9.0
+    },
+    {
+        "name": "calamari fritti",
+        "category": "kebab",
+        "ingredients": ["calamari fritti"],
+        "price": 9.0
+    },
+    {
+        "name": "insalata mista",
+        "category": "kebab",
+        "ingredients": [
+            "insalata",
+            "pomodoro",
+            "tonno",
+            "bufala",
+            "olive",
+            "cappuccio"
+        ],
+        "price": 6.0
+    },
+    {
+        "name": "insalata caprese",
+        "category": "kebab",
+        "ingredients": ["bufala", "pomodorini", "basilico"],
+        "price": 6.0
+    },
+    {
+        "name": "insalata kebab",
+        "category": "kebab",
+        "ingredients": [
+            "insalata",
+            "pomodoro",
+            "cipolle",
+            "cappuccio",
+            "verza rossa",
+            "carne"
+        ],
+        "price": 6.0
+    },
+    {
+        "name": "insalata speciale",
+        "category": "kebab",
+        "ingredients": [
+            "insalata",
+            "pomodoro",
+            "bufala",
+            "mais",
+            "olive",
+            "carne"
+        ],
+        "price": 6.0
+    },
+    {
+        "name": "patatina piccola",
+        "category": "patatine",
+        "ingredients": ["patatine"],
+        "price": 2.0
+    },
+    {
+        "name": "patatina grande",
+        "category": "patatine",
+        "ingredients": ["patatine"],
+        "price": 3.0
+    },
+    {
+        "name": "panino pizza classico",
+        "category": "panino pizza",
+        "ingredients": ["prosciutto cotto", "funghi", "mozzarella"],
+        "price": 5.0
+    },
+    {
+        "name": "panino jolie",
+        "category": "panino pizza",
+        "ingredients": [
+            "prosciutto crudo",
+            "insalata",
+            "mozzarella",
+            "pomodoro",
+            "maionese"
+        ],
+        "price": 5.0
+    },
+    {
+        "name": "panino pizza",
+        "category": "panino pizza",
+        "ingredients": [],
+        "price": 5.0
+    },
+    {
+        "name": "piadina",
+        "category": "piadina",
+        "ingredients": [],
+        "price": 5.0
+    },
+    {
+        "name": "acqua",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 1.0
+    },
+    {
+        "name": "coca cola",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 1.5
+    },
+    {
+        "name": "coca grande",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 3.0
+    },
+    {
+        "name": "pepsi",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 1.5
+    },
+    {
+        "name": "coca zero",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 1.5
+    },
+    {
+        "name": "the limone",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 1.5
+    },
+    {
+        "name": "fanta",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 1.5
+    },
+    {
+        "name": "sprite",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 1.5
+    },
+    {
+        "name": "monster",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 2.0
+    },
+    {
+        "name": "the pesca",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 1.5
+    },
+    {
+        "name": "lemon soda",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 1.5
+    },
+    {
+        "name": "chinotto",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 1.5
+    },
+    {
+        "name": "amaro",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 1.5
+    },
+    {
+        "name": "estathe limone",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 2.0
+    },
+    {
+        "name": "estathe pesca",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 2.0
+    },
+    {
+        "name": "the verde",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 2.0
+    },
+    {
+        "name": "succo",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 2.0
+    },
+    {
+        "name": "crodino",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 2.5
+    },
+    {
+        "name": "red bull",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 2.0
+    },
+    {
+        "name": "birra piccola",
+        "category": "birra",
+        "ingredients": [],
+        "price": 2.0
+    },
+    {
+        "name": "birra media",
+        "category": "birra",
+        "ingredients": [],
+        "price": 3.0
+    },
+    {
+        "name": "heineken grande",
+        "category": "birra",
+        "ingredients": [],
+        "price": 2.5
+    },
+    {
+        "name": "weissbeer",
+        "category": "birra",
+        "ingredients": [],
+        "price": 2.5
+    },
+    {
+        "name": "becks",
+        "category": "birra",
+        "ingredients": [],
+        "price": 2.5
+    },
+    {
+        "name": "corona",
+        "category": "birra",
+        "ingredients": [],
+        "price": 2.5
+    },
+    {
+        "name": "bud",
+        "category": "birra",
+        "ingredients": [],
+        "price": 2.5
+    },
+    {
+        "name": "moretti",
+        "category": "birra",
+        "ingredients": [],
+        "price": 2.5
+    },
+    {
+        "name": "peroni",
+        "category": "birra",
+        "ingredients": [],
+        "price": 2.5
+    },
+    {
+        "name": "caffe",
+        "category": "bibita",
+        "ingredients": [],
+        "price": 1.0
+    },
+    {
+        "name": "cheese burger",
+        "category": "kebab",
+        "ingredients": ["hamburger", "insalata", "pomodoro", "sottiletta"],
+        "price": 5.0
+    },
+    {
+        "name": "cheese burger menu",
+        "category": "kebab",
+        "ingredients": ["hamburger", "insalata", "pomodoro", "sottiletta"],
+        "price": 6.0
+    },
+    {
+        "name": "doppio cheese burger",
+        "category": "kebab",
+        "ingredients": [
+            "hamburger",
+            "hamburger",
+            "insalata",
+            "pomodoro",
+            "sottiletta"
+        ],
+        "price": 6.0
+    },
+    {
+        "name": "doppio cheese burger menu",
+        "category": "kebab",
+        "ingredients": [
+            "hamburger",
+            "hamburger",
+            "insalata",
+            "pomodoro",
+            "sottiletta"
+        ],
+        "price": 7.0
+    },
+    {
+        "name": "chicken royal",
+        "category": "kebab",
+        "ingredients": [
+            "cotoletta",
+            "insalata",
+            "pomodoro",
+            "sottiletta",
+            "sottiletta"
+        ],
+        "price": 6.0
+    },
+    {
+        "name": "chicken royal menu",
+        "category": "kebab",
+        "ingredients": [
+            "cotoletta",
+            "insalata",
+            "pomodoro",
+            "sottiletta",
+            "sottiletta"
+        ],
+        "price": 7.0
+    },
+    {
+        "name": "chicken special",
+        "category": "kebab",
+        "ingredients": ["cotoletta", "insalata", "pomodoro", "sottiletta"],
+        "price": 5.0
+    },
+    {
+        "name": "chicken special menu",
+        "category": "kebab",
+        "ingredients": ["cotoletta", "insalata", "pomodoro", "sottiletta"],
+        "price": 6.0
+    },
+    {
+        "name": "chicken nuggets",
+        "category": "kebab",
+        "ingredients": ["chicken nuggets"],
+        "price": 5.0
+    },
+    {
+        "name": "chicken nuggets menu",
+        "category": "kebab",
+        "ingredients": ["chicken nuggets"],
+        "price": 6.0
+    },
+    {
+        "name": "piadina seek kebab",
+        "category": "kebab",
+        "ingredients": [
+            "carne seek kebab",
+            "insalata",
+            "pomodoro",
+            "mais",
+            "cipolle",
+            "verza rossa",
+            "cappuccio",
+            "yogurt",
+            "piccante"
+        ],
+        "price": 5.5
+    },
+    {
+        "name": "piadina seek kebab menu",
+        "category": "kebab",
+        "ingredients": [
+            "carne seek kebab",
+            "insalata",
+            "pomodoro",
+            "mais",
+            "cipolle",
+            "verza rossa",
+            "cappuccio",
+            "yogurt",
+            "piccante"
+        ],
+        "price": 6.5
+    },
+    {
+        "name": "alette di pollo",
+        "category": "kebab",
+        "ingredients": ["alette di pollo"],
+        "price": 5.5
+    },
+    {
+        "name": "alette di pollo menu",
+        "category": "kebab",
+        "ingredients": ["alette di pollo"],
+        "price": 6.5
+    },
+    {
+        "name": "samosas",
+        "category": "kebab",
+        "ingredients": ["samosas", "samosas", "samosas", "samosas", "samosas"],
+        "price": 5.0
+    },
+    {
+        "name": "samosas menu",
+        "category": "kebab",
+        "ingredients": ["samosas", "samosas", "samosas", "samosas", "samosas"],
+        "price": 6.0
+    },
+    {
+        "name": "kebab panino",
+        "category": "kebab",
+        "ingredients": [
+            "carne",
+            "insalata",
+            "pomodoro",
+            "mais",
+            "verza rossa",
+            "cappuccio",
+            "verza rossa",
+            "yogurt",
+            "piccante"
+        ],
+        "price": 4.0
+    },
+    {
+        "name": "kebab panino menu",
+        "category": "kebab",
+        "ingredients": [
+            "carne",
+            "insalata",
+            "pomodoro",
+            "mais",
+            "verza rossa",
+            "cappuccio",
+            "verza rossa",
+            "yogurt",
+            "piccante"
+        ],
+        "price": 6.5
+    },
+    {
+        "name": "kebab piadina",
+        "category": "kebab",
+        "ingredients": [
+            "carne",
+            "insalata",
+            "pomodoro",
+            "mais",
+            "verza rossa",
+            "cappuccio",
+            "verza rossa",
+            "yogurt",
+            "piccante"
+        ],
+        "price": 4.5
+    },
+    {
+        "name": "kebab piadina menu",
+        "category": "kebab",
+        "ingredients": [
+            "carne",
+            "insalata",
+            "pomodoro",
+            "mais",
+            "verza rossa",
+            "cappuccio",
+            "verza rossa",
+            "yogurt",
+            "piccante"
+        ],
+        "price": 7.0
+    },
+    {
+        "name": "zinger burger",
+        "category": "kebab",
+        "ingredients": ["cotoletta", "insalata", "maionese"],
+        "price": 5.0
+    },
+    {
+        "name": "zinger burger menu",
+        "category": "kebab",
+        "ingredients": ["cotoletta", "insalata", "maionese"],
+        "price": 6.0
+    },
+    {
+        "name": "seba",
+        "category": "pizza",
+        "ingredients": ["mozzarella", "patate forno", "brie", "salsiccia"],
+        "price": 7.5
+    },
+    {
+        "name": "seba",
+        "category": "pizza famiglia",
+        "ingredients": ["mozzarella", "patate forno", "brie", "salsiccia"],
+        "price": 16.0
+    },
+    {
+        "name": "amata",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "patate forno",
+            "porcini",
+            "grana"
+        ],
+        "price": 7.5
+    },
+    {
+        "name": "amata",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "patate forno",
+            "porcini",
+            "grana"
+        ],
+        "price": 16.0
+    },
+    {
+        "name": "chef",
+        "category": "pizza",
+        "ingredients": ["mozzarella", "pancetta", "patate forno"],
+        "price": 7.5
+    },
+    {
+        "name": "chef",
+        "category": "pizza famiglia",
+        "ingredients": ["mozzarella", "pancetta", "patate forno"],
+        "price": 15.0
+    },
+    {
+        "name": "valtellina",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "bresaola",
+            "rucola",
+            "grana"
+        ],
+        "price": 7.5
+    },
+    {
+        "name": "valtellina",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "bresaola",
+            "rucola",
+            "grana"
+        ],
+        "price": 16.0
+    },
+    {
+        "name": "bomba",
+        "category": "pizza",
+        "ingredients": [
+            "mozzarella",
+            "brie",
+            "gorgonzola",
+            "grana",
+            "salame piccante",
+            "cipolle"
+        ],
+        "price": 7.5
+    },
+    {
+        "name": "bomba",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "mozzarella",
+            "brie",
+            "gorgonzola",
+            "grana",
+            "salame piccante",
+            "cipolle"
+        ],
+        "price": 16.0
+    },
+    {
+        "name": "calabrese",
+        "category": "pizza",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "salame piccante",
+            "acciughe",
+            "origano",
+            "peperoni"
+        ],
+        "price": 7.5
+    },
+    {
+        "name": "calabrese",
+        "category": "pizza famiglia",
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "salame piccante",
+            "acciughe",
+            "origano",
+            "peperoni"
+        ],
+        "price": 16.0
+    },
+    {
+        "name": "sole",
+        "category": "pizza",
+        "ingredients": ["pomodoro", "mozzarella", "asparagi", "grana", "uovo"],
+        "price": 7.5
+    },
+    {
+        "name": "sole",
+        "category": "pizza famiglia",
+        "ingredients": ["pomodoro", "mozzarella", "asparagi", "grana", "uovo"],
+        "price": 16.0
+    },
+    {
+        "name": "napoletana",
+        "category": "pizza fritta",
+        "ingredients": ["scamorza", "friarielli"],
+        "price": 6.5
+    },
+    {
+        "name": "pizza fritta",
+        "category": "pizza fritta",
+        "ingredients": [],
+        "price": 6.5
+    },
+    {
+        "name": "leggera",
+        "category": "pizza fritta",
+        "ingredients": ["philadelfia", "pomodorini", "mozzarella"],
+        "price": 6.5
+    },
+    {
+        "name": "farcita",
+        "category": "pizza fritta",
+        "ingredients": ["mozzarella", "ricotta", "salame piccante", "pepe"],
+        "price": 6.5
+    }
+]
