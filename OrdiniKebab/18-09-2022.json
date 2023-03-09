@@ -11,7 +11,7 @@
           "quantity": 1
         },
         {
-          "name": "seek kebab",
+          "name": "piadina seek kebab",
           "category": "kebab",
           "price": 6.5,
           "ingredients": [],
@@ -97,7 +97,7 @@
           "quantity": 1
         },
         {
-          "name": "crudo panna",
+          "name": "crudo e panna",
           "category": "pizza",
           "price": 6.5,
           "ingredients": [],
@@ -286,7 +286,7 @@
           "quantity": 3
         },
         {
-          "name": "patatina spirale",
+          "name": "patatine spirale",
           "category": "patatine",
           "price": 3.0,
           "ingredients": [],
@@ -562,7 +562,7 @@
           "quantity": 1
         },
         {
-          "name": "patatina picclola",
+          "name": "patatina piccola",
           "category": "patatine",
           "price": 2.0,
           "ingredients": [],
@@ -789,13 +789,13 @@
         },
         {
           "name": "piadina",
-          "category": "panino pizza",
+          "category": "piadina",
           "price": 5.0,
           "ingredients": ["prosciutto crudo", "mozzarella"],
           "quantity": 1
         },
         {
-          "name": "panino cotoletta",
+          "name": "cotoletta di pollo",
           "category": "kebab",
           "price": 4.0,
           "ingredients": ["insalata", "maionese", "patatine"],
@@ -969,7 +969,7 @@
           "quantity": 1
         },
         {
-          "name": "patatina picclola",
+          "name": "patatina piccola",
           "category": "patatine",
           "price": 2.0,
           "ingredients": [],
@@ -1170,7 +1170,7 @@
           "quantity": 1
         },
         {
-          "name": "patatina picclola",
+          "name": "patatina piccola",
           "category": "patatine",
           "price": 2.0,
           "ingredients": [],
@@ -1228,7 +1228,7 @@
           "quantity": 1
         },
         {
-          "name": "patatina picclola",
+          "name": "patatina piccola",
           "category": "patatine",
           "price": 2.0,
           "ingredients": [],
@@ -1286,7 +1286,7 @@
       "name": "order48",
       "products": [
         {
-          "name": "patatina picclola",
+          "name": "patatina piccola",
           "category": "patatine",
           "price": 2.0,
           "ingredients": [],
@@ -1681,7 +1681,7 @@
           "quantity": 1
         },
         {
-          "name": "patatina picclola",
+          "name": "patatina piccola",
           "category": "patatine",
           "price": 2.0,
           "ingredients": [],
@@ -2175,7 +2175,7 @@
           "quantity": 2
         },
         {
-          "name": "patatina picclola",
+          "name": "patatina piccola",
           "category": "patatine",
           "price": 2.0,
           "ingredients": [],
@@ -2514,7 +2514,7 @@
           "quantity": 1
         },
         {
-          "name": "patatina spirale",
+          "name": "patatine spirale",
           "category": "patatine",
           "price": 3.0,
           "ingredients": [],
@@ -2550,7 +2550,7 @@
           "quantity": 1
         },
         {
-          "name": "kebab cotoletta",
+          "name": "cotoletta di pollo",
           "category": "kebab",
           "price": 4.0,
           "ingredients": ["insalata", "patatine", "ketchup", "maionese"],
@@ -2650,7 +2650,10 @@
           "ingredients": [],
           "quantity": 1
         }
-      ]
+      ],
+      "type": "TABLE",
+      "actualTotal": 0,
+      "extraPrice": 0
     }
   ]
 }
