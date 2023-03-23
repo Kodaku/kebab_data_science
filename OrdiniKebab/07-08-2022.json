@@ -1,0 +1,122 @@
+{
+  "orders": [
+    {
+      "name": "order1",
+      "products": [
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": ["capperi"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order2",
+      "products": [
+        {
+          "name": "panino classico",
+          "category": "panino pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "chicken nuggets menu",
+          "category": "kebab",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "panino jolie",
+          "category": "panino pizza",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 16,
+      "extraPrice": 0
+    },
+    {
+      "name": "order3",
+      "products": [
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["-piccante"],
+          "quantity": 2
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order4",
+      "products": [
+        {
+          "name": "kebab piadina menu",
+          "category": "kebab",
+          "ingredients": ["tutto"],
+          "quantity": 1
+        },
+        {
+          "name": "the pesca",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "pizza kebab",
+          "category": "pizza",
+          "ingredients": ["insalata"],
+          "quantity": 1
+        },
+        {
+          "name": "carrettiera",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "patatina grande",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 2
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 26.5,
+      "extraPrice": 0
+    },
+    {
+      "name": "order5",
+      "products": [
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["yogurt", "piccante", "patatine"],
+          "quantity": 1
+        },
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": ["salsiccia", "patatine"],
+          "quantity": 1
+        },
+        {
+          "name": "lemon soda",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 2
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 14,
+      "extraPrice": 0
+    }
+  ]
+}
