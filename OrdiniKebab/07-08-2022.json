@@ -627,6 +627,14 @@
       "type": "DELIVERY",
       "actualTotal": 25,
       "extraPrice": 0
+    },
+    {
+      "name": "order30",
+      "products": [
+        {
+          "name": ""
+        }
+      ]
     }
   ]
 }
