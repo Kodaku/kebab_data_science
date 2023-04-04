@@ -1,0 +1,380 @@
+{
+  "orders": [
+    {
+      "name": "order1",
+      "products": [
+        {
+          "name": "capricciosa",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "patatina piccola",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order2",
+      "products": [
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["-piccante", "-cipolle"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["patatine", "yogurt", "verza rossa", "pomodoro"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order3",
+      "products": [
+        {
+          "name": "piatto grande",
+          "category": "kebab",
+          "ingredients": ["tutto"],
+          "quantity": 1
+        },
+        {
+          "name": "patatina grande",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order4",
+      "products": [
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["-mais"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["tutto"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order5",
+      "products": [
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["patatine"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order6",
+      "products": [
+        {
+          "name": "diavola",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 2
+        },
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": ["salsiccia"],
+          "quantity": 1
+        },
+        {
+          "name": "pizza kebab",
+          "category": "pizza",
+          "ingredients": ["tutto"],
+          "quantity": 1
+        },
+        {
+          "name": "patatina grande",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 27.5,
+      "extraPrice": 0
+    },
+    {
+      "name": "order7",
+      "products": [
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["tutto"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["insalata", "cipolle", "yogurt", "piccante"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["insalata", "pomodoro", "yogurt"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["mais", "cipolle", "yogurt"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["insalata", "mais", "pomodoro", "yogurt"],
+          "quantity": 2
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["mais", "insalata", "cipolle", "pomodoro", "yogurt"],
+          "quantity": 2
+        },
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": ["gorgonzola", "pancetta"],
+          "quantity": 1
+        },
+        {
+          "name": "patatina grande",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 2
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 49,
+      "extraPrice": 0
+    },
+    {
+      "name": "order8",
+      "products": [
+        {
+          "name": "piatto piccolo",
+          "category": "kebab",
+          "ingredients": ["patatine"],
+          "quantity": 1
+        },
+        {
+          "name": "piatto grande",
+          "category": "kebab",
+          "ingredients": ["patatine", "maionese"],
+          "quantity": 1
+        },
+        {
+          "name": "chicken royal",
+          "category": "kebab",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "piatto piccolo",
+          "category": "kebab",
+          "ingredients": ["cipolle", "peperoni"],
+          "quantity": 1
+        },
+        {
+          "name": "birra spina",
+          "category": "birra",
+          "ingredients": [],
+          "quantity": 2
+        },
+        {
+          "name": "acqua",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "vino bianco",
+          "category": "alcolico",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "amaro",
+          "category": "alcolico",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TABLE",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order9",
+      "products": [
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "4 stagioni",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "patatina grande",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 2
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 16.5,
+      "extraPrice": 0
+    },
+    {
+      "name": "order10",
+      "products": [
+        {
+          "name": "margherita",
+          "category": "pizza famiglia",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "patatina grande",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order11",
+      "products": [
+        {
+          "name": "margherita",
+          "category": "pizza famiglia",
+          "ingredients": [],
+          "quantity": 2
+        },
+        {
+          "name": "prosciutto",
+          "category": "pizza famiglia",
+          "ingredients": [],
+          "quantity": 2
+        },
+        {
+          "name": "wurstel",
+          "category": "pizza famiglia",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "margherita",
+          "category": "pizza famiglia",
+          "ingredients": ["salsiccia"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order12",
+      "products": [
+        {
+          "name": "tonno e cipolle",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "wurstel",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order13",
+      "products": [
+        {
+          "name": "patatina piccola",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["insalata", "pomodoro", "mais", "patatine", "yogurt"],
+          "quantity": 1
+        },
+        {
+          "name": "coca grande",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 14.5,
+      "extraPrice": 2
+    },
+    {
+      "name": "order14",
+      "products": [
+        {
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
