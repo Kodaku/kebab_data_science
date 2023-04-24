@@ -1588,6 +1588,14 @@
       "type": "TAKE AWAY",
       "actualTotal": 0,
       "extraPrice": 0
+    },
+    {
+      "name": "order71",
+      "products": [
+        {
+          "name": ""
+        }
+      ]
     }
   ]
 }
