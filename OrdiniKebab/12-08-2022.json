@@ -1,0 +1,124 @@
+{
+  "orders": [
+    {
+      "name": "order1",
+      "products": [
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["tutto"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["-piccante"],
+          "quantity": 1
+        },
+        {
+          "name": "cheese burger",
+          "category": "kebab",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "patatina grande",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 20,
+      "extraPrice": 0
+    },
+    {
+      "name": "order2",
+      "products": [
+        {
+          "name": "carrettiera",
+          "category": "pizza famiglia",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 14,
+      "extraPrice": 0
+    },
+    {
+      "name": "order3",
+      "products": [
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 2
+        },
+        {
+          "name": "piatto grande",
+          "category": "kebab",
+          "ingredients": ["carne"],
+          "quantity": 1
+        },
+        {
+          "name": "patatina piccola",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 19,
+      "extraPrice": 0
+    },
+    {
+      "name": "order4",
+      "products": [
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 2
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["tutto"],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 12,
+      "extraPrice": 0
+    },
+    {
+      "name": "order5",
+      "products": [
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["-yogurt", "-piccante"],
+          "quantity": 2
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["-yogurt"],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 15.5,
+      "extraPrice": 0
+    },
+    {
+      "name": "order6",
+      "products": [
+        {
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
