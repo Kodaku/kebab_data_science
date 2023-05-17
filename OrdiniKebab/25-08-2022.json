@@ -1,0 +1,568 @@
+{
+  "orders": [
+    {
+      "name": "order1",
+      "products": [
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["-piccante"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order2",
+      "products": [
+        {
+          "name": "pizza kebab",
+          "category": "pizza",
+          "ingredients": ["insalata", "mais", "yogurt"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order3",
+      "products": [
+        {
+          "name": "kebab panino menu",
+          "category": "kebab",
+          "ingredients": ["-piccante"],
+          "quantity": 1
+        },
+        {
+          "name": "coca cola",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 2
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["pomodoro", "maionese", "insalata", "patatine"],
+          "quantity": 1
+        },
+        {
+          "name": "patatine spirale",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "red bull",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "pepsi",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "patatina grande",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TABLE",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order4",
+      "products": [
+        {
+          "name": "tonno e cipolle",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "children",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order5",
+      "products": [
+        {
+          "name": "red bull",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["cipolle", "insalata", "yogurt"],
+          "quantity": 1
+        },
+        {
+          "name": "patatina piccola",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TABLE",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order6",
+      "products": [
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["patatine", "maionese"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["patatine", "maionese", "ketchup", "pomodoro"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["patatine", "insalata", "mais", "yogurt", "ketchup"],
+          "quantity": 1
+        },
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order7",
+      "products": [
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["piccante", "pomodoro", "yogurt", "cipolle"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["mais", "maionese"],
+          "quantity": 1
+        },
+        {
+          "name": "piatto piccolo",
+          "category": "kebab",
+          "ingredients": ["pomodoro", "insalata", "cipolle", "yogurt"],
+          "quantity": 1
+        },
+        {
+          "name": "patatina piccola",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "esta the limone",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 2
+        },
+        {
+          "name": "heineken grande",
+          "category": "birra",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "fanta",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TABLE",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order8",
+      "products": [
+        {
+          "name": "pizza kebab",
+          "category": "pizza",
+          "ingredients": ["patatine", "ketchup", "maionese", "insalata"],
+          "quantity": 1
+        },
+        {
+          "name": "heineken grande",
+          "category": "birra",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "moretti",
+          "category": "birra",
+          "ingredients": [],
+          "quantity": 2
+        },
+        {
+          "name": "alette",
+          "category": "kebab",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "pizza kebab",
+          "category": "pizza",
+          "ingredients": ["-piccante"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["-cipolle"],
+          "quantity": 1
+        }
+      ],
+      "type": "TABLE",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order9",
+      "products": [
+        {
+          "name": "piatto grande",
+          "category": "kebab",
+          "ingredients": ["-piccante"],
+          "quantity": 3
+        },
+        {
+          "name": "pizza kebab",
+          "category": "pizza",
+          "ingredients": ["tutto"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["-cipolle", "-piccante"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order10",
+      "products": [
+        {
+          "name": "prosciutto e funghi",
+          "category": "pizza famiglia 2 gusti",
+          "ingredients": ["salame piccante"],
+          "quantity": 1
+        },
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": ["patatine", "tonno", "maionese", "mais"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["insalata", "patatine", "ketchup", "maionese"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order11",
+      "products": [
+        {
+          "name": "pizza al volo",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "valtellina",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["tutto"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order12",
+      "products": [
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["mais", "insalata"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["-piccante"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order13",
+      "products": [
+        {
+          "name": "chicken nuggets menu",
+          "category": "kebab",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "fanta",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "piadina",
+          "category": "piadina",
+          "ingredients": ["prosciutto cotto", "mozzarella"],
+          "quantity": 1
+        },
+        {
+          "name": "the limone",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "patatina piccola",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TABLE",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order14",
+      "products": [
+        {
+          "name": "zinger burger menu",
+          "category": "kebab",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "fanta",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TABLE",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order15",
+      "products": [
+        {
+          "name": "4 formaggi",
+          "category": "pizza",
+          "ingredients": ["salame piccante"],
+          "quantity": 1
+        },
+        {
+          "name": "prosciutto e funghi",
+          "category": "pizza",
+          "ingredients": ["olive"],
+          "quantity": 1
+        },
+        {
+          "name": "prosciutto e funghi",
+          "category": "pizza",
+          "ingredients": ["salame piccante"],
+          "quantity": 1
+        },
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": ["bresaola", "rucola", "grana"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order16",
+      "products": [
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 3
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 12,
+      "extraPrice": 0
+    },
+    {
+      "name": "order17",
+      "products": [
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": ["gorgonzola"],
+          "quantity": 1
+        },
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 3
+        },
+        {
+          "name": "tonno e cipolle",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "capricciosa",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": ["rucola", "pomodorini"],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 32,
+      "extraPrice": 0
+    },
+    {
+      "name": "order18",
+      "products": [
+        {
+          "name": "panino falafel",
+          "category": "kebab",
+          "ingredients": ["tutto"],
+          "quantity": 2
+        },
+        {
+          "name": "patatina grande",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 13,
+      "extraPrice": 2
+    },
+    {
+      "name": "order19",
+      "products": [
+        {
+          "name": "children",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "speciale",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "pizza kebab",
+          "category": "pizza",
+          "ingredients": ["tutto"],
+          "quantity": 2
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 20,
+      "extraPrice": 0
+    },
+    {
+      "name": "order20",
+      "products": [
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["mais", "insalata", "pomodoro", "maionese"],
+          "quantity": 2
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order21",
+      "products": [
+        {
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
