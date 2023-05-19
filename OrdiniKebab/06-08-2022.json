@@ -1,0 +1,78 @@
+{
+  "orders": [
+    {
+      "name": "order1",
+      "products": [
+        {
+          "name": "diavola",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["tutto"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["insalata", "pomodoro", "yogurt", "patatine"],
+          "quantity": 1
+        },
+        {
+          "name": "pizza kebab",
+          "category": "pizza",
+          "ingredients": ["patatine"],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 21.5,
+      "extraPrice": 2
+    },
+    {
+      "name": "order2",
+      "products": [
+        {
+          "name": "ceres",
+          "category": "birra",
+          "ingredients": [],
+          "quantity": 5
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 12.5,
+      "extraPrice": 0
+    },
+    {
+      "name": "order3",
+      "products": [
+        {
+          "name": "margherita",
+          "category": "pizza famiglia",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["insalata", "patatine"],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 13,
+      "extraPrice": 0
+    },
+    {
+      "name": "order4",
+      "products": [
+        {
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
