@@ -70,6 +70,278 @@
       "name": "order4",
       "products": [
         {
+          "name": "piatto grande",
+          "category": "kebab",
+          "ingredients": ["tutto"],
+          "quantity": 1
+        },
+        {
+          "name": "coca cola",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TABLE",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order5",
+      "products": [
+        {
+          "name": "children",
+          "category": "pizza",
+          "ingredients": ["-mozzarella"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["tutto"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["cipolle", "piccante"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["-cipolle", "-piccante"],
+          "quantity": 1
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["insalata", "pomodoro", "patatine", "yogurt"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order6",
+      "products": [
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["tutto"],
+          "quantity": 3
+        },
+        {
+          "name": "alette",
+          "category": "kebab",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order7",
+      "products": [
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["tutto"],
+          "quantity": 2
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order8",
+      "products": [
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "acqua",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "chicken royal menu",
+          "category": "kebab",
+          "ingredients": [],
+          "quantity": 3
+        },
+        {
+          "name": "coca cola",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 5
+        },
+        {
+          "name": "chicken nuggets menu",
+          "category": "kebab",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "acqua",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["-insalata", "-piccante"],
+          "quantity": 1
+        },
+        {
+          "name": "patatina piccola",
+          "category": "patatine",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": [
+            "ketchup",
+            "maionese",
+            "insalata",
+            "mais",
+            "patatine"
+          ],
+          "quantity": 1
+        }
+      ],
+      "type": "TABLE",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order9",
+      "products": [
+        {
+          "name": "kebab panino",
+          "category": "kebab",
+          "ingredients": ["-yogurt", "-piccante"],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order10",
+      "products": [
+        {
+          "name": "kebab piadina",
+          "category": "kebab",
+          "ingredients": ["pomodoro", "insalata", "maionese", "patatine"],
+          "quantity": 1
+        },
+        {
+          "name": "4 stagioni",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "coca cola",
+          "category": "bibita",
+          "ingredients": [],
+          "quantity": 2
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 18,
+      "extraPrice": 0
+    },
+    {
+      "name": "order11",
+      "products": [
+        {
+          "name": "margherita",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 2
+        },
+        {
+          "name": "marinara",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "estate",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "TAKE AWAY",
+      "actualTotal": 0,
+      "extraPrice": 0
+    },
+    {
+      "name": "order12",
+      "products": [
+        {
+          "name": "matrix",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "pugliese",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 12,
+      "extraPrice": 0
+    },
+    {
+      "name": "order13",
+      "products": [
+        {
+          "name": "children",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "veneta",
+          "category": "pizza",
+          "ingredients": [],
+          "quantity": 1
+        }
+      ],
+      "type": "DELIVERY",
+      "actualTotal": 13,
+      "extraPrice": 0
+    },
+    {
+      "name": "order14",
+      "products": [
+        {
           "name": ""
         }
       ]
